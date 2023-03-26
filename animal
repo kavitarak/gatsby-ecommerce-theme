@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Animal Kingdom</title>
+</head>
+<body>
+    <header>
+        <h1>Animal Kingdom</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Animals</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Welcome to Animal Kingdom!</h2>
+            <p>Our website is dedicated to showcasing the beauty and diversity of the animal kingdom. From fierce predators to cute and cuddly pets, we've got it all!</p>
+            <p>Explore our site to learn more about your favorite animals and discover new ones you never knew existed.</p>
+        </section>
+
+        <section>
+            <h2>Featured Animals</h2>
+            <ul>
+                <li><a href="#"><img src="lion.jpg" alt="Lion">Lion</a></li>
+                <li><a href="#"><img src="panda.jpg" alt="Panda">Panda</a></li>
+                <li><a href="#"><img src="dolphin.jpg" alt="Dolphin">Dolphin</a></li>
+                <li><a href="#"><img src="tiger.jpg" alt="Tiger">Tiger</a></li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Learn About Animals</h2>
+            <p>Choose a category to learn more:</p>
+            <ul>
+                <li><a href="#">Mammals</a></li>
+                <li><a href="#">Birds</a></li>
+                <li><a href="#">Reptiles</a></li>
+                <li><a href="#">Fish</a></li>
+                <li><a href="#">Invertebrates</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Copyright © Animal Kingdom</p>
+    </footer>
+</body>
+</html>
